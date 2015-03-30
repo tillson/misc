@@ -1,0 +1,12 @@
+{
+  "name": "FrontPageMonintor",
+  "version": "1.0.0",
+  "description": "Made for a friend, this node app sent him a twillio-based SMS message when his post rose on the front page.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.11.2",
+    "twilio": "^1.11.1"
+  },
+  "author": "Tillson Galloway",
+  "license": "MIT"
+}
